@@ -1,0 +1,17 @@
+{
+  "dev":{
+    "urL": "https://dev.com",
+    "siteId": "123",
+    "limit": 50
+  },
+  "prod": {
+    "urL": "https://prod.com",
+    "siteId": "1233",
+    "limit": 30
+  },
+  "dev2": {
+    "urL": "https://dev2.com",
+    "siteId": "123",
+    "limit": 20
+  }
+}

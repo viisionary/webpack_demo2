@@ -1,2 +1,2 @@
-console.log('file23')
-console.log(process.env)
+import config from './config.json'
+console.log(config)
