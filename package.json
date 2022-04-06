@@ -1,5 +1,5 @@
 {
-  "name": "webpack_demo2",
+  "name": "webpack",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "keywords": []
 }
